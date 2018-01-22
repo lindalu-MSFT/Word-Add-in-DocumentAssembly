@@ -11,7 +11,6 @@ This Word add-in will show you how to:
 7.  Search by using wildcards.
 8.  Insert footers into the document.
 9.  Customize and insert OOXML by using setSelectedDataAsync API.
-10.  dsdsds
 
 ## Prerequisites
 
